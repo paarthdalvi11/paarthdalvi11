@@ -4,19 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy+Guys+!+😀;+I'm+Paarth+Dalvi!;" />
 </h1>
 
-<h3 align="center">A Tech Enthusiast turning ideas into digital innovations</h3>
+<h3 align="center">A **Tech Enthusiast** turning ideas into digital innovations</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Next.JS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **MERN Stack, mySQL, OracleDB**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact **Doctor Strange’s cloak is as dramatic as my Monday mornings 😭**
 
  </div>
  
