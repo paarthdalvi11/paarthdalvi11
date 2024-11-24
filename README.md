@@ -17,14 +17,14 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:paarth.d11@gmail.com" style="text-transform: none">
+  <a href="mailto:paarth.d11@gmail.com" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
     
-  <a href="www.linkedin.com/in/paarthdalvi11" target="_blank" style="text-transform: none">
+  <a href="www.linkedin.com/in/paarthdalvi11" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/paarthdalvi11" target="_blank" style="text-transform: none">
+  <a href="https://github.com/paarthdalvi11" target="_blank" style="text-decoration: none">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react,node,express,mysql,mongodb,oracle,c,c++,java,python" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
