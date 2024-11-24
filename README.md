@@ -16,15 +16,10 @@
 
  </div>
 
-<h2 align="center">📩 Connect With Me 📩</h2>
-<br/>
+<h2 align="center">📩 Reach Me 📩</h2>
 <div align="center"> 
   <a href="https://linkedin.com/in/paarthdalvi11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paarthdalvi11" height="30" width="40" /></a>
-  <a href="linkedin.com/in/paarthdalvi11" target="_blank" style="text-decoration: none">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/paarthdalvi11" target="_blank" style="text-decoration: none">
-     <img src="https://skillicons.dev/icons?i=github" />
+    <a href="https://instagram.com/paarth.dalvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paarth.dalvi" height="30" width="40" /></a>
   </a>
 </div>
 
