@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy+Guys+!+😀;+I'm+Paarth+Dalvi+;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy+Guys+!+😀;+I'm+Paarth+Dalvi+🧟;" />
 </h1>
 
 <h3 align="center">A Tech Enthusiast turning ideas into digital innovations</h3>
@@ -15,8 +15,9 @@
  ⚡ Fun fact : **Doctor Strange’s cloak is as dramatic as my Monday mornings 😭**
 
  </div>
-
+<br/>
 <h2 align="center">📩 Reach Me 📩</h2>
+<hr>
 <div align="center"> 
   <a href="https://linkedin.com/in/paarthdalvi11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paarthdalvi11" height="30" width="40" /></a>
     <a href="https://instagram.com/paarth.dalvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paarth.dalvi" height="30" width="40" /></a>
