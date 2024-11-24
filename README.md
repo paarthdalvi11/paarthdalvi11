@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy+Guys+!+😀;+I'm+Paarth+Dalvi+;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy+Guys+!+😀;+I'm+Paarth+Dalvi+;" />
 </h1>
 
 <h3 align="center">A Tech Enthusiast turning ideas into digital innovations</h3>
