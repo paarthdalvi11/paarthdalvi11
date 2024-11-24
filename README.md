@@ -17,14 +17,14 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:paarth.d11@gmail.com">
+  <a href="mailto:paarth.d11@gmail.com" style="text-transform: none">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
     
-  <a href="www.linkedin.com/in/paarthdalvi11" target="_blank">
+  <a href="www.linkedin.com/in/paarthdalvi11" target="_blank" style="text-transform: none">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/paarthdalvi11" target="_blank">
+  <a href="https://github.com/paarthdalvi11" target="_blank" style="text-transform: none">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
