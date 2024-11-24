@@ -15,17 +15,18 @@
  ⚡ Fun fact : **Doctor Strange’s cloak is as dramatic as my Monday mornings 😭**
 
  </div>
- 
+
+<h2 align="center">📩 Connect With Me 📩</h2>
+<br/>
 <div align="center"> 
   <a href="mailto:paarth.d11@gmail.com" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-    
-  <a href="www.linkedin.com/in/paarthdalvi11" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="linkedin.com/in/paarthdalvi11" target="_blank" style="text-decoration: none">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://github.com/paarthdalvi11" target="_blank" style="text-decoration: none">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </div>
 
